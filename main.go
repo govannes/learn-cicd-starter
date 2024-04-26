@@ -16,8 +16,6 @@ import (
 	"github.com/joho/godotenv"
 
 	"github.com/bootdotdev/learn-cicd-starter/internal/database"
-
-	_ "github.com/go-sql-driver/mysql"
 )
 
 type apiConfig struct {
