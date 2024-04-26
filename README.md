@@ -1,6 +1,6 @@
 # learn-cicd-starter (Notely)
 
-![code coverage badge](https://github.com/YOUR_NAMESPACE/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
+![code coverage badge](https://github.com/govannes/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
 
 This repo contains the starter code for the "Notely" application for the "Learn CICD" course on [Boot.dev](https://boot.dev).
 
@@ -51,6 +51,9 @@ Start the server:
 ```bash
 go build -o notely && ./notely
 ```
+
+## 🤝 Contributing
+
 
 Because the `DATABASE_URL` environment variable is set, the server will connect to the database and serve the webpage at `http://localhost:8080`. The page should be fully functional now. You can:
 
