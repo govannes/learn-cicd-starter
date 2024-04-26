@@ -52,6 +52,9 @@ Start the server:
 go build -o notely && ./notely
 ```
 
+## 🤝 Contributing
+
+
 Because the `DATABASE_URL` environment variable is set, the server will connect to the database and serve the webpage at `http://localhost:8080`. The page should be fully functional now. You can:
 
 * Create a user (login as that user)
